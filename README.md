@@ -22,5 +22,3 @@ I'm a software engineering professional with 12 years of experience building ent
 ### 🔍 Areas of Interest
 Platform Engineering | Cloud-Native Systems | Developer Productivity | Engineering Leadership
 
-### 🤝 Connect
-- LinkedIn: Add your LinkedIn URL
