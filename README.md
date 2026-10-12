@@ -22,3 +22,22 @@ I'm a software engineering professional with 12 years of experience building ent
 ### 🔍 Areas of Interest
 Platform Engineering | Cloud-Native Systems | Developer Productivity | Engineering Leadership
 
+🎓 Education & Certification
+
+Master of Science in Computing and Information Science
+Sam Houston State University — Huntsville, Texas, USA
+
+Bachelor's Degree in Electronics and Communication Engineering
+Acharya Nagarjuna University — India
+
+Oracle Certified Professional — Java SE 6 Programmer
+
+📚 Selected Publications
+
+An Artificial Intelligence–Based Smartphone App for Assessing the Risk of Opioid Misuse in Working Populations Using Synthetic Data
+JMIR Formative Research
+Research focused on applying artificial intelligence and mobile technologies to risk assessment.
+
+Urgency Detection in Social Media Texts Using Natural Language Processing
+IEEE International Conference on Semantic Computing
+Research exploring natural language processing techniques for identifying urgency in social media content.
